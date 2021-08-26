@@ -1,0 +1,15 @@
+{
+  "name": "panDian",
+  "displayName": "panDian",
+  "expo": {
+    "name": "盘点",
+    "slug": "panDian",
+    "version": "1.0.2",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.hzm131.test"
+    }
+  }
+}
